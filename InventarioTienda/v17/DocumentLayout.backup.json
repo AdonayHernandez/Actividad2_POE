@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Pictures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52E2C38E-3657-4D73-B6F4-E7999F8FD414}|InventarioTiendaApp\\InventarioTiendaApp.csproj|c:\\users\\pc\\source\\repos\\inventariotienda\\inventariotiendaapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52E2C38E-3657-4D73-B6F4-E7999F8FD414}|InventarioTiendaApp\\InventarioTiendaApp.csproj|c:\\users\\pc\\source\\repos\\inventariotienda\\inventariotiendaapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52E2C38E-3657-4D73-B6F4-E7999F8FD414}|InventarioTiendaApp\\InventarioTiendaApp.csproj|c:\\users\\pc\\source\\repos\\inventariotienda\\inventariotiendaapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52E2C38E-3657-4D73-B6F4-E7999F8FD414}|InventarioTiendaApp\\InventarioTiendaApp.csproj|c:\\users\\pc\\source\\repos\\inventariotienda\\inventariotiendaapp\\inventariotiendaapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E8D64D-BE3E-4050-8D00-C3B52405DF06}|ClassTiendaLibrary\\ClassTiendaLibrary.csproj|c:\\users\\pc\\source\\repos\\inventariotienda\\classtiendalibrary\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E8D64D-BE3E-4050-8D00-C3B52405DF06}|ClassTiendaLibrary\\ClassTiendaLibrary.csproj|c:\\users\\pc\\source\\repos\\inventariotienda\\classtiendalibrary\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E8D64D-BE3E-4050-8D00-C3B52405DF06}|ClassTiendaLibrary\\ClassTiendaLibrary.csproj|c:\\users\\pc\\source\\repos\\inventariotienda\\classtiendalibrary\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\InventarioTienda\\ClassTiendaLibrary\\Producto.cs",
+              "RelativeDocumentMoniker": "..\\source\\repos\\InventarioTienda\\ClassTiendaLibrary\\Producto.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\InventarioTienda\\ClassTiendaLibrary\\Producto.cs",
+              "RelativeToolTip": "..\\source\\repos\\InventarioTienda\\ClassTiendaLibrary\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T16:26:14.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\InventarioTienda\\ClassTiendaLibrary\\Inventario.cs",
+              "RelativeDocumentMoniker": "..\\source\\repos\\InventarioTienda\\ClassTiendaLibrary\\Inventario.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\InventarioTienda\\ClassTiendaLibrary\\Inventario.cs",
+              "RelativeToolTip": "..\\source\\repos\\InventarioTienda\\ClassTiendaLibrary\\Inventario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T16:25:22.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\InventarioTienda\\ClassTiendaLibrary\\Categoria.cs",
+              "RelativeDocumentMoniker": "..\\source\\repos\\InventarioTienda\\ClassTiendaLibrary\\Categoria.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\InventarioTienda\\ClassTiendaLibrary\\Categoria.cs",
+              "RelativeToolTip": "..\\source\\repos\\InventarioTienda\\ClassTiendaLibrary\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T16:24:27.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\InventarioTienda\\InventarioTiendaApp\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\source\\repos\\InventarioTienda\\InventarioTiendaApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\InventarioTienda\\InventarioTiendaApp\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\source\\repos\\InventarioTienda\\InventarioTiendaApp\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T16:21:24.234Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventarioTiendaApp",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\InventarioTienda\\InventarioTiendaApp\\InventarioTiendaApp.csproj",
+              "RelativeDocumentMoniker": "..\\source\\repos\\InventarioTienda\\InventarioTiendaApp\\InventarioTiendaApp.csproj",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\InventarioTienda\\InventarioTiendaApp\\InventarioTiendaApp.csproj",
+              "RelativeToolTip": "..\\source\\repos\\InventarioTienda\\InventarioTiendaApp\\InventarioTiendaApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-25T16:27:23.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\InventarioTienda\\InventarioTiendaApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\source\\repos\\InventarioTienda\\InventarioTiendaApp\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\InventarioTienda\\InventarioTiendaApp\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\source\\repos\\InventarioTienda\\InventarioTiendaApp\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAM4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T16:22:12.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\InventarioTienda\\InventarioTiendaApp\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\source\\repos\\InventarioTienda\\InventarioTiendaApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\InventarioTienda\\InventarioTiendaApp\\Form1.cs",
+              "RelativeToolTip": "..\\source\\repos\\InventarioTienda\\InventarioTiendaApp\\Form1.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAywGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T16:21:55.07Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
